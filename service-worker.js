@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/axa-test-code/precache-manifest.3028441dc70aa655be1236a814d82bfa.js"
+  "/axa-test-code/precache-manifest.ba09e11e0366869ff6a604ec9f63cb20.js"
 );
 
 self.addEventListener('message', (event) => {
