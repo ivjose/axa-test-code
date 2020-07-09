@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.a325c91f.chunk.css",
-    "main.js": "/static/js/main.f5d745a2.chunk.js",
-    "main.js.map": "/static/js/main.f5d745a2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.051c895c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.051c895c.js.map",
-    "static/css/2.e5243b87.chunk.css": "/static/css/2.e5243b87.chunk.css",
-    "static/js/2.28b860bd.chunk.js": "/static/js/2.28b860bd.chunk.js",
-    "static/js/2.28b860bd.chunk.js.map": "/static/js/2.28b860bd.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a6cfeecfd01831c28ff669b6d2f7caa5.js": "/precache-manifest.a6cfeecfd01831c28ff669b6d2f7caa5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.e5243b87.chunk.css.map": "/static/css/2.e5243b87.chunk.css.map",
-    "static/css/main.a325c91f.chunk.css.map": "/static/css/main.a325c91f.chunk.css.map",
-    "static/js/2.28b860bd.chunk.js.LICENSE.txt": "/static/js/2.28b860bd.chunk.js.LICENSE.txt"
+    "main.css": "/axa-test-demo/static/css/main.a325c91f.chunk.css",
+    "main.js": "/axa-test-demo/static/js/main.7c227b13.chunk.js",
+    "main.js.map": "/axa-test-demo/static/js/main.7c227b13.chunk.js.map",
+    "runtime-main.js": "/axa-test-demo/static/js/runtime-main.4ec08d80.js",
+    "runtime-main.js.map": "/axa-test-demo/static/js/runtime-main.4ec08d80.js.map",
+    "static/css/2.e5243b87.chunk.css": "/axa-test-demo/static/css/2.e5243b87.chunk.css",
+    "static/js/2.28b860bd.chunk.js": "/axa-test-demo/static/js/2.28b860bd.chunk.js",
+    "static/js/2.28b860bd.chunk.js.map": "/axa-test-demo/static/js/2.28b860bd.chunk.js.map",
+    "index.html": "/axa-test-demo/index.html",
+    "precache-manifest.a00248a2080d34b561a524ef2d1e8bf0.js": "/axa-test-demo/precache-manifest.a00248a2080d34b561a524ef2d1e8bf0.js",
+    "service-worker.js": "/axa-test-demo/service-worker.js",
+    "static/css/2.e5243b87.chunk.css.map": "/axa-test-demo/static/css/2.e5243b87.chunk.css.map",
+    "static/css/main.a325c91f.chunk.css.map": "/axa-test-demo/static/css/main.a325c91f.chunk.css.map",
+    "static/js/2.28b860bd.chunk.js.LICENSE.txt": "/axa-test-demo/static/js/2.28b860bd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.051c895c.js",
+    "static/js/runtime-main.4ec08d80.js",
     "static/css/2.e5243b87.chunk.css",
     "static/js/2.28b860bd.chunk.js",
     "static/css/main.a325c91f.chunk.css",
-    "static/js/main.f5d745a2.chunk.js"
+    "static/js/main.7c227b13.chunk.js"
   ]
 }
