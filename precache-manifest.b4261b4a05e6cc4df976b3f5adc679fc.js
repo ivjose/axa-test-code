@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81481877d1934c0a82dec3ba1eceb799",
+    "revision": "f2272b7e4bb6bb0402f81f613e7fc8fe",
     "url": "/axa-test-code/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/axa-test-code/static/css/2.e5243b87.chunk.css"
   },
   {
-    "revision": "5fd9d5bc5d913cf66cd0",
+    "revision": "93a8a1b139719dcd8e8c",
     "url": "/axa-test-code/static/css/main.a325c91f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/axa-test-code/static/js/2.42d0a5f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5fd9d5bc5d913cf66cd0",
-    "url": "/axa-test-code/static/js/main.16388327.chunk.js"
+    "revision": "93a8a1b139719dcd8e8c",
+    "url": "/axa-test-code/static/js/main.c28e52fd.chunk.js"
   },
   {
     "revision": "4741960d72e748b89027",
