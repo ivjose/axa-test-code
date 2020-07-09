@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/axa-test-demo/static/css/main.a325c91f.chunk.css",
-    "main.js": "/axa-test-demo/static/js/main.7c227b13.chunk.js",
-    "main.js.map": "/axa-test-demo/static/js/main.7c227b13.chunk.js.map",
-    "runtime-main.js": "/axa-test-demo/static/js/runtime-main.4ec08d80.js",
-    "runtime-main.js.map": "/axa-test-demo/static/js/runtime-main.4ec08d80.js.map",
-    "static/css/2.e5243b87.chunk.css": "/axa-test-demo/static/css/2.e5243b87.chunk.css",
-    "static/js/2.28b860bd.chunk.js": "/axa-test-demo/static/js/2.28b860bd.chunk.js",
-    "static/js/2.28b860bd.chunk.js.map": "/axa-test-demo/static/js/2.28b860bd.chunk.js.map",
-    "index.html": "/axa-test-demo/index.html",
-    "precache-manifest.a00248a2080d34b561a524ef2d1e8bf0.js": "/axa-test-demo/precache-manifest.a00248a2080d34b561a524ef2d1e8bf0.js",
-    "service-worker.js": "/axa-test-demo/service-worker.js",
-    "static/css/2.e5243b87.chunk.css.map": "/axa-test-demo/static/css/2.e5243b87.chunk.css.map",
-    "static/css/main.a325c91f.chunk.css.map": "/axa-test-demo/static/css/main.a325c91f.chunk.css.map",
-    "static/js/2.28b860bd.chunk.js.LICENSE.txt": "/axa-test-demo/static/js/2.28b860bd.chunk.js.LICENSE.txt"
+    "main.css": "/axa-test-code/static/css/main.a325c91f.chunk.css",
+    "main.js": "/axa-test-code/static/js/main.9935780c.chunk.js",
+    "main.js.map": "/axa-test-code/static/js/main.9935780c.chunk.js.map",
+    "runtime-main.js": "/axa-test-code/static/js/runtime-main.c06c9fca.js",
+    "runtime-main.js.map": "/axa-test-code/static/js/runtime-main.c06c9fca.js.map",
+    "static/css/2.e5243b87.chunk.css": "/axa-test-code/static/css/2.e5243b87.chunk.css",
+    "static/js/2.42d0a5f9.chunk.js": "/axa-test-code/static/js/2.42d0a5f9.chunk.js",
+    "static/js/2.42d0a5f9.chunk.js.map": "/axa-test-code/static/js/2.42d0a5f9.chunk.js.map",
+    "index.html": "/axa-test-code/index.html",
+    "precache-manifest.10925a8bdcf25db30e964b6ba06f4c00.js": "/axa-test-code/precache-manifest.10925a8bdcf25db30e964b6ba06f4c00.js",
+    "service-worker.js": "/axa-test-code/service-worker.js",
+    "static/css/2.e5243b87.chunk.css.map": "/axa-test-code/static/css/2.e5243b87.chunk.css.map",
+    "static/css/main.a325c91f.chunk.css.map": "/axa-test-code/static/css/main.a325c91f.chunk.css.map",
+    "static/js/2.42d0a5f9.chunk.js.LICENSE.txt": "/axa-test-code/static/js/2.42d0a5f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ec08d80.js",
+    "static/js/runtime-main.c06c9fca.js",
     "static/css/2.e5243b87.chunk.css",
-    "static/js/2.28b860bd.chunk.js",
+    "static/js/2.42d0a5f9.chunk.js",
     "static/css/main.a325c91f.chunk.css",
-    "static/js/main.7c227b13.chunk.js"
+    "static/js/main.9935780c.chunk.js"
   ]
 }
