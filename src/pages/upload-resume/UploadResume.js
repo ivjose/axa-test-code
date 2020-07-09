@@ -1,4 +1,4 @@
-import React, { useState} from 'react';
+import React, { useState } from 'react';
 import { useHistory } from 'react-router-dom';
 
 import Layout from 'components/Layout';
@@ -56,7 +56,7 @@ const UploadResume = () => {
       });
 
       setTimeout(() => {
-        history.push('/request-schedule')
+        history.push('/request-schedule');
       }, 1500);
     } catch (error) {
       setStatus({
@@ -82,6 +82,7 @@ const UploadResume = () => {
             type="file"
             name="file-resume"
             label="File upload"
+            accept="application/pdf"
             onChange={handleConvert}
           />
 
