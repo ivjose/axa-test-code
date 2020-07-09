@@ -1,0 +1,23 @@
+.field-wrap {
+  position: relative;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.field-wrap:last-of-type {
+  margin-bottom: 25px;
+}
+
+.field-input {
+  width: 100%;
+  background-color: #eceff1;
+  padding: 10px;
+  font-size: inherit;
+  border: none;
+  border-radius: 3px;
+}
+
+.field-label {
+  display: block;
+  margin: 5px 0;
+}
