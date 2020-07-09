@@ -16,8 +16,6 @@ export const isLoggedIn = () => {
 
 export const clearToken = () => {
   if (!isBrowser) return;
-
-  console.log(`Ensuring the \`Token\` property exists.`);
   setToken('');
   //   callback();
 };

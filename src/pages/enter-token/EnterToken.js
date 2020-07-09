@@ -13,8 +13,6 @@ const EnterToken = () => {
   const [value, setValue] = useState('');
 
   useEffect(() => {
-    console.log(auth.token, 'TOKE!!@!@');
-
     if (auth.token) {
       setValue(auth.token);
     }

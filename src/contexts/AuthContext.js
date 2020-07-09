@@ -9,9 +9,6 @@ const AuthProvider = ({ children }) => {
 
   useEffect(() => {
     const token = getToken();
-
-    console.log(token, 'AuthProvider');
-
     if (token) {
       setAuth({
         loading: false,
@@ -21,7 +18,6 @@ const AuthProvider = ({ children }) => {
   }, []);
 
   const setAuthToken = (value) => {
-    console.log(value, 'CONTASDASD!!');
     setToken(value);
     setAuth((prevState) => ({
       ...prevState,

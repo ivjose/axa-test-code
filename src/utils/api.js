@@ -22,7 +22,7 @@ export async function client(
     config.body = JSON.stringify(body);
   }
 
-  return window.fetch(`/${endpoint}`, config).then(async (response) => {
+  return window.fetch(`${process.env.REACT_APP_API_URL}${endpoint}`, config).then(async (response) => {
     const data = await response.json();
 
     if (response.ok) {

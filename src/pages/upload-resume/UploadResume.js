@@ -59,7 +59,6 @@ const UploadResume = () => {
         history.push('/request-schedule')
       }, 1500);
     } catch (error) {
-      console.log({ error }, 'ERROR !!!!');
       setStatus({
         type: 'error',
         message: 'Oops, Please check your resume and re-upload, Thank you!',
